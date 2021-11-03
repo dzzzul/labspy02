@@ -9,4 +9,4 @@
 ![gambar 1](screenshot/input.PNG)
 
     OUTPUT
-![gambar 2](sccrennshot/output.PNG)
+![gambar 2](screenshot/output.PNG)
